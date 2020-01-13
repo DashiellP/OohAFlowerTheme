@@ -1,0 +1,26 @@
+{
+    "name": "light-lilac",
+    "displayName": "Light Lilac",
+    "description": "A soft, floral theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#4c3761",
+        "theme": "light"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Light Lilac",
+                "uiTheme": "vs",
+                "path": "./themes/Light Lilac-color-theme.json"
+            }
+        ]
+    }
+}
