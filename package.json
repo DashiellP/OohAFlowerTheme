@@ -1,6 +1,7 @@
 {
-    "name": "light-lilac",
-    "displayName": "Light Lilac",
+    "name": "ooh-a-flower",
+    "displayName": "Ooh! A Flower!",
+    "publisher": "Dashiell Powers",
     "description": "A soft, floral theme",
     "version": "0.0.1",
     "engines": {
@@ -17,10 +18,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Light Lilac",
+                "label": "Ooh! A Flower!",
                 "uiTheme": "vs",
-                "path": "./themes/Light Lilac-color-theme.json"
+                "path": "./themes/ooh-a-flower-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DashiellP/OohAFlowerTheme"
     }
 }
