@@ -1,7 +1,7 @@
 {
     "name": "ooh-a-flower",
     "displayName": "Ooh! A Flower!",
-    "publisher": "Dashiell Powers",
+    "publisher": "dashiellpowers",
     "description": "A soft, floral theme",
     "version": "0.0.1",
     "engines": {
@@ -27,5 +27,6 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/DashiellP/OohAFlowerTheme"
-    }
+    },
+    "license": "SEE LICENSE IN LICENSE.md"
 }
