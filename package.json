@@ -1,32 +1,37 @@
 {
-    "name": "ooh-a-flower",
-    "displayName": "Ooh! A Flower!",
-    "publisher": "dashiellpowers",
-    "description": "A soft, floral theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.41.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "icon": "images/icon.png",
-    "galleryBanner": {
-        "color": "#4c3761",
-        "theme": "light"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "Ooh! A Flower!",
-                "uiTheme": "vs",
-                "path": "./themes/ooh-a-flower-color-theme.json"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/DashiellP/OohAFlowerTheme"
-    },
-    "license": "SEE LICENSE IN LICENSE.md"
+	"name": "ooh-a-flower",
+	"displayName": "Ooh! A Flower!",
+	"publisher": "dashiellpowers",
+	"description": "A soft, floral theme",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.41.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"icon": "images/icon.png",
+	"galleryBanner": {
+		"color": "#4c3761",
+		"theme": "dark"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Ooh! A Flower!",
+				"uiTheme": "vs",
+				"path": "./themes/ooh-a-flower-color-theme.json"
+			}
+		]
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/DashiellP/OohAFlowerTheme"
+	},
+	"license": "SEE LICENSE IN LICENSE.md",
+	"__metadata": {
+		"id": "09a1c290-3355-4b69-bc41-9ff75f9bd6be",
+		"publisherDisplayName": "Dashiell Powers",
+		"publisherId": "cacfc778-baf9-4252-95cf-fe6910c94f1c"
+	}
 }
